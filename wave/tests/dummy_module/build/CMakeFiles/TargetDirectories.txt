@@ -1,0 +1,3 @@
+/app/wave/tests/dummy_module/build/CMakeFiles/dummy_module.dir
+/app/wave/tests/dummy_module/build/CMakeFiles/edit_cache.dir
+/app/wave/tests/dummy_module/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/app/wave/modules/clipboard/build/CMakeFiles/clipboard_module.dir
+/app/wave/modules/clipboard/build/CMakeFiles/edit_cache.dir
+/app/wave/modules/clipboard/build/CMakeFiles/rebuild_cache.dir
